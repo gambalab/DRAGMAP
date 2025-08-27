@@ -13,6 +13,7 @@
  **/
 
 #include <boost/format.hpp>
+#include <boost/range.hpp>
 //#include <boost/range/adaptor/reversed.hpp>
 #include <numeric>
 #include <unordered_set>
